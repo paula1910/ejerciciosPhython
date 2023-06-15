@@ -1,0 +1,6 @@
+# Realizar un programa en Python que solicite
+# dos números a continuación mostrar el resultado
+num1 = int(input("dime un múmero:"))
+num2 = int(input("dime otro número:"))
+res  = num1 + num2
+print("El resultado es: ", res)
